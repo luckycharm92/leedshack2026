@@ -2,7 +2,6 @@ import pandas as pd
 import xgboost as xgb
 import numpy as np
 import os
-GENERAL_MODEL_PATH = os.path.join(BASE_DIR, 'models', 'breast_cancer_model.json')
 
 def run_gp_screening():
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))

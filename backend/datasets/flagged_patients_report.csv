@@ -1,0 +1,16 @@
+Patient_Name,Registered_Practice,Patient_NHS_Number,patient_email,Last_Consultation_Date,age,sex,imd_score,genetics_snomed,mother_history,sister_history,relative_under_50,bmi_observation,smoking_status,predicted_relative_risk,screening_status
+Amelia,B82021,440-127-7278,gracemboothe@gmail.com,2023-08-08,47,1,5,765057007,0,0,0,,266919005,10.649129,⚠️ REVIEW: High Risk + Missing BMI
+Olivia,B82081,444-164-9006,gracemboothe@gmail.com,2023-06-08,81,1,5,765057007,0,0,0,27.3,77176002,10.649129,🚨 URGENT: High Predicted Risk + 🧬 Genetic Marker
+Mia,B82021,471-510-5413,gracemboothe@gmail.com,2023-01-18,44,1,6,765057007,0,0,0,19.1,266919005,10.649129,🚨 URGENT: High Predicted Risk + 🧬 Genetic Marker
+Olivia,B82021,413-970-7938,gracemboothe@gmail.com,2023-09-07,80,1,2,0,0,1,1,31.4,77176002,1.860201,🚨 URGENT: High Predicted Risk
+Amelia,B82005,447-602-3454,gracemboothe@gmail.com,2023-01-20,23,1,10,0,1,0,1,25.2,266919005,1.7830634,🚨 URGENT: High Predicted Risk
+Amelia,B82081,474-187-9322,gracemboothe@gmail.com,2023-02-24,50,1,7,412734009,0,1,0,27.7,77176002,1.491599,🧬 Genetic Marker
+Isla,B82005,451-960-6390,gracemboothe@gmail.com,2023-08-31,58,1,1,442525003,1,1,0,,266919005,1.3652289,⚠️ REVIEW: High Risk + Missing BMI
+Ava,B82021,453-576-7873,gracemboothe@gmail.com,2023-08-31,47,1,3,442525003,0,0,1,34.7,77176002,1.0483694,🧬 Genetic Marker
+Isla,B82021,450-975-8734,gracemboothe@gmail.com,2023-10-27,65,1,4,412734009,0,0,0,22.3,77176002,1.0085137,🧬 Genetic Marker
+Mia,B82005,405-665-4843,gracemboothe@gmail.com,2023-07-21,38,1,4,412734009,0,0,0,23.0,266919005,1.0085137,🧬 Genetic Marker
+Isla,B82005,477-742-4840,gracemboothe@gmail.com,2023-04-06,70,1,3,442525003,0,0,0,30.5,77176002,1.0085137,🧬 Genetic Marker
+Mia,B82005,489-653-8035,gracemboothe@gmail.com,2023-12-20,50,1,10,412734009,0,0,0,30.4,266919005,1.0085137,🧬 Genetic Marker
+Ava,B82021,400-476-2306,gracemboothe@gmail.com,2023-09-25,64,1,2,442525003,0,0,0,,266919005,1.0085137,🧬 Genetic Marker
+Mia,B82081,438-485-8554,gracemboothe@gmail.com,2023-10-09,60,1,4,412734009,0,0,0,17.9,266919005,1.0085137,🧬 Genetic Marker
+Ava,B82021,491-572-8392,gracemboothe@gmail.com,2023-05-05,49,0,10,442525003,1,0,0,25.6,266919005,-0.51258075,🧬 Genetic Marker
