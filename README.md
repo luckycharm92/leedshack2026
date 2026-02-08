@@ -7,6 +7,26 @@ The system we are rebooting is the NHS diagnosis system.
 
 For this project, we have chosen our example disease to be Breast Cancer. We decided on breast cancer because not only is it one of the most genetic cancers, making it easier to predict, but also over 95% survive 5+ years if detected early (Stage 1). Therefore early detection is essential. Additionally about 23% of breast cancer cases are considered preventable through lifestyle changes and 1 in 7 women in the UK will develop breast cancer so it is something that affects everyone and will make a real world impact.
 
+Frontend Overview
+
+This is the frontend for a Breast Cancer Risk Assessment web application. It provides an interactive, user-friendly questionnaire that collects health, lifestyle, and medical history information and sends it to a backend prediction API. The frontend then displays personalised risk insights, recommendations, and next steps.
+
+This project focuses on:
+-Clear risk preidction and communication
+
+-Accessibility and user-centred design
+-Clean data handling for machine learning models
+
+⚠️ Disclaimer: This application is for educational and research purposes only and does not provide medical diagnoses.
+Features
+-Step-by-step risk assessment quiz
+-Review answers before submission
+-Visualised risk results (relative risk score)
+-Lifestyle-based “What-if” risk reduction insights
+-Urgent alerts when symptoms are reported
+-NHS screening and GP links
+- Suport groups page
+  
 Backend:                                                                                                                                                                                                    
 
 Inside the Backend folder contains all the datasets used, the files used to generate the datasets, the models made (model info is explained below), files for training the models, flagging people at risk of breast cancer, automatically sending emails to flaged people and a file using flask API that communicates to the website
