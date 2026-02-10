@@ -1,5 +1,7 @@
 This is Viva.
 
+https://github.com/user-attachments/assets/42046725-de32-4ef8-b682-97d99b84ee00
+
 The problem we are trying to solve is people finding out they have a disease or condition too late in life.
 Our solution to this was to build a ML model that flags people for disease or condition based on GP records and emails them the result. We have also made an additional NHS webpage that displays your chance of getting the disease or condition and has a quiz that makes your risk assessment more accurate.
 
